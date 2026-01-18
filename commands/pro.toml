@@ -1,0 +1,3 @@
+description = "Activate the Pro Council skill manually"
+prompt = "Please activate the 'pro' skill to analyze the current problem."
+
