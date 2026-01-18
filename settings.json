@@ -1,0 +1,35 @@
+{
+  "ide": {
+    "hasSeenNudge": true,
+    "enabled": true
+  },
+  "mcpServers": {},
+  "security": {
+    "auth": {
+      "selectedType": "oauth-personal"
+    }
+  },
+  "general.previewFeatures": true,
+  "general": {
+    "previewFeatures": true
+  },
+  "tools": {
+    "shell": {
+      "showColor": true
+    }
+  },
+  "output": {
+    "format": "text"
+  },
+  "ui": {
+    "showStatusInTitle": true,
+    "footer": {
+      "hideContextPercentage": false
+    },
+    "showMemoryUsage": true,
+    "showModelInfoInChat": true
+  },
+  "experimental": {
+    "skills": true
+  }
+}
