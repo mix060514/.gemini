@@ -6,9 +6,9 @@
 !README.md
 !.gitignore
 !/skills/
-!/skills/*
+!/skills/**
 !/commands/
-!/commands/*
+!/commands/**
 
 oauth_creds.json
 google_account.json
