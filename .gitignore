@@ -6,6 +6,7 @@
 !README.md
 !.gitignore
 !/skills/
+!/skills/*
 !/commands/
 !/commands/*
 
