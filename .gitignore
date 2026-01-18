@@ -1,0 +1,13 @@
+*
+
+
+!settings.json
+!GEMINI.md
+!README.md
+!.gitignore
+!/skills/
+!/commands/
+
+oauth_creds.json
+google_account.json
+
